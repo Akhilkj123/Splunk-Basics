@@ -10,5 +10,6 @@
 
 ![image](https://github.com/Akhilkj123/Splunk-Basics/assets/65653010/8b5966fd-90e8-420c-b195-bb2e1ef00574)
 
-- Amber found the executive contact information and sent him an email. What image file displayed the executive's contact information? Answer example: /path/image.ext
+- Amber found the executive contact information and sent him an email. What image file displayed the executive's contact information? 
+
 
